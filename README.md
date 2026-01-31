@@ -80,7 +80,7 @@ This analysis supports key banking functions such as:
 ---
 
 ## How to Use
-1. Download the Power BI (`.pbix`) file from this repository  
+1. Download the Tableau (`.twbs`) file from this repository  
 2. Open the file using **Tableau Desktop**  
 3. Use slicers to filter by **State, Loan Status, Grade, or Year**  
 4. Analyze KPIs and visuals to extract **banking insights**
@@ -88,7 +88,7 @@ This analysis supports key banking functions such as:
 ---
 
 ## Dashboard Preview
-![Bank Loan Customer Analysis Dashboard](./assets/bank_loan_dashboard.png)
+![Bank Loan Customer Analysis Dashboard](Bank analysis.png)
 
 ---
 
