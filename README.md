@@ -88,7 +88,7 @@ This analysis supports key banking functions such as:
 ---
 
 ## Dashboard Preview
-![Bank Loan Customer Analysis Dashboard](Bank analysis.png)
+![Bank Loan Customer Analysis Dashboard]([https://github.com/sampathamaravadhi/Bank-Loan-of-Costumers-Analysis-/blob/main/Bank%20analysis.png])
 
 ---
 
